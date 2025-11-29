@@ -1,0 +1,10 @@
+/* Custom CSS */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Định nghĩa font-variation-settings cho Material Symbols */
+/* Lưu ý: Thay đổi wght, FILL, opsz có thể thay đổi giao diện icon */
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 1, 'wght' 600, 'GRAD' 0, 'opsz' 24;
+}

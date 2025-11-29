@@ -1,0 +1,21 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+/* Shortcut class cho nav */
+.nav-link {
+    color: #6b7280; /* gray-600 */
+    transition: 0.2s;
+}
+
+.dark .nav-link {
+    color: #d1d5db; /* gray-300 */
+}
+
+.nav-link:hover {
+    color: #137fec;
+}
